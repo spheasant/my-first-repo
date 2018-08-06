@@ -1,28 +1,13 @@
-# This is a large heading
+#Yall
 
-## This is a smaller heading
+Yall
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+#Yall Reading
 
-- This is
-- an unordered
-- list
+Yall Reading
 
-1. This is
-2. an ordered
-3. list
+#Yall Food
 
-Here is `some code` in the middle of a sentence.
+Yall Food
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+How meaningful. What a poem! What a poet!
